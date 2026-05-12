@@ -1,5 +1,21 @@
 Introduction to Terraform  
-What is Infrastructure as Code(Iac)?  
--
-Why Terraform and what is Terraform?  
--
+
+What is Infrastructure as Code(IAC)?   
+-As a Devops engineer, in order to create any infrastructure we can do it through UI. To do the same thing for multiple requests, we will do automation through programmatic approach either through AWS CLI or programming language or we can interact with API(Application programming interface) to make a call to the AWS through program with logging into AWS.
+
+-Write the code one single time to create the infrastructure and use it for any number of requests by saving the file. This way we can do automation but we need to have some programming knowledge to create these programmatic files.
+  
+-Cloud providers came up with a solution called cloud formation templates where we can have template and using that template we can write the code to create infrastructure either through JSON or YAML language.
+-CFT will allow us to write the infrastructure as code(IAC) in terms of templating language either JSON or YAML, because we write the infrastructure as  a code we call these tools as IAC.
+-There are so many IAC tools as CFT(Cloud formation template) for AWS.
+-Azure Resource Manager for Azure.
+-Heat templates for open stack.
+
+Why Terraform and what is Terraform?
+-Terraform is an universal solution where it will resolve the issue of learning many tools. In one organization we can use aws and in another they will use GCP, so DevOps engineer cannot learn all the tools and languages associated to it. Terraform solved this by providing multi-cloud provider.
+Just provide the provider to terraform and write the code according to the provider it will create the infrastructure irrespective of cloud provider.
+
+It has become mandatory skill for DevOps Engineer.
+
+How to write Terraform?
+-We can write Terraform in Hashicorp Templating Language means HCL. It follows API as code concept, it will directly talk to the API providers. Terraform will apply the API and creates the infrastructure.
