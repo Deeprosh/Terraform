@@ -6,6 +6,11 @@
 -Alternative methods to use Terraform and AWS through codespaces.
 ## **Day-02**  
 ### Advanced Terraform configuration  
+-Providers  
+-Multi-region and Multi-Cloud  
+-Variables  
+-Conditional operators  
+-Built-in functions  
 ## **Day-03**  
 ### Building Reusable Infrastructure with Modules  
 ## **Day-04**  
