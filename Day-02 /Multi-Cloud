@@ -1,0 +1,2 @@
+How to setup multiple cloud providers in AWS to create infratsructure?
+We have to use provider blocks for different cloud providers
