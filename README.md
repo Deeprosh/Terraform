@@ -14,7 +14,9 @@
 ## **`Day-03`**  
 ### Building Reusable Infrastructure with Modules  
 ## **`Day-04`**  
-### Collaboration and state management  
+### Collaboration and state management
+- Remote Backend
+- State Locking
 ## **`Day-05`**  
 ### Provisioning & Provisioners  
 ## **`Day-06`**  
