@@ -1,25 +1,25 @@
 # **Terraform**  
-## **Day-01**  
+## **`Day-01`**  
 ### Basics of Terraform  
 -To Learn why Terraform and what is Terraform.  
 -How to Install Terraform.  
 -Alternative methods to use Terraform and AWS through codespaces.
-## **Day-02**  
+## **`Day-02`**  
 ### Advanced Terraform configuration  
 -Providers  
 -Multi-region and Multi-Cloud  
 -Variables  
 -Conditional operators  
 -Built-in functions  
-## **Day-03**  
+## **`Day-03`**  
 ### Building Reusable Infrastructure with Modules  
-## **Day-04**  
+## **`Day-04`**  
 ### Collaboration and state management  
-## **Day-05**  
+## **`Day-05`**  
 ### Provisioning & Provisioners  
-## **Day-06**  
+## **`Day-06`**  
 ### Managing Environments with workspaces  
-## **Day-07**  
+## **`Day-07`**  
 ### Security and advanced topics  
-## **Day-08**  
+## **`Day-08`**  
 ### Interview Questions
