@@ -1,4 +1,4 @@
-hcl```
+```  
 provider "aws" {
   region = "ap-south-2"
 }
@@ -22,5 +22,5 @@ resource "aws_dynamodb_table" "terraform_lock" {
       name = "LockID"
       type = "S"
     }
-}
+}  
 ```
